@@ -1,5 +1,4 @@
 "Animes aqui..." 
-
 Dragon Ball
 Naruto
 Attack on Titans
@@ -31,3 +30,6 @@ One Punch Man
 Boku no Hero
 Demon Slayer
 Cowboy Bepop
+Dragonball Super
+Kimetsu no Yaiba
+
