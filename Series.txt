@@ -1,16 +1,11 @@
 "Series aqui..."  
 
-
-
 Friends
 How I Met Your Mother
 The Office
 Brooklyn 99
 Suits
 
-
-Grey`s Anatomy
-Supernatural
 Grey's Anatomy
 The Resident
 How to Get Away with Murder
@@ -18,4 +13,6 @@ How to Get Away with Murder
 Super choque
 Round 6
 
+Grey`s Anatomy
+Supernatural
 

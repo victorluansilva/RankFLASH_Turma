@@ -1,7 +1,4 @@
-
-
 "Animes aqui..." 
-
 Dragon Ball
 Naruto
 Attack on Titans
@@ -12,9 +9,6 @@ Demon Slayer - Kimetsu no Yaiba
 Kakegurui
 
 Seija Musou
-
-Dragonball Super
-Kimetsu no Yaiba
 Gurren Lagan
 Steins gate 
 Dororo
@@ -33,3 +27,5 @@ CyberPunk 2077
 Jojo (a partir da parte 3)
 Cowboy Bepop
 
+Dragonball Super
+Kimetsu no Yaiba
