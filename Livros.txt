@@ -1,3 +1,4 @@
+
 "Livros aqui..." 
 
 O Diário de um Mago - Paulo Coelho
@@ -18,6 +19,7 @@ Diário de um Banana
 Harry Potter: As Relíquias da Morte
 
 
-
-
-
+"Livros aqui..."  
+Mitologia Nordica- Neil Gaiman
+o Cortiço- Aluísio Azevedo
+AS 48 Leis do Poder- Robert Greene
