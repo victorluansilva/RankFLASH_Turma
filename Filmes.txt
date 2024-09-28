@@ -1,5 +1,6 @@
 "Filmes aqui..."  
 
+
 500 days of Summer
 Ready Player One
 Imitation Game
@@ -21,3 +22,9 @@ Piratas do Caribe
 Transformers: O Ultimo Cavaleiro
 Transformers: O Lado Oculto da Lua
 
+Tranformers
+Spider-man Into th Spider-Verse
+Premonição
+Marley e Eu
+Bubble
+Creed
